@@ -428,6 +428,13 @@ footer .social-icons{
         justify-content: space-evenly;
         grid-template: 10px;
     }
+     .testimonials{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 25px auto;
+    }
     .faqs{
         width: 80%;
         display: flex;
